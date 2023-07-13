@@ -11,7 +11,7 @@ This library exposes the 5 public methods for the user and the details of those 
 4. getNextImage() --> This method returns the next random image
 5. getPreviousImage() --> This method returns the previous image
 
-On the initialization of the library I trigger the given test Api **https://dog.ceo/api/breeds/image/random/{user_input}** to fetch 30 records and I store them it on arraylist to perform all the operations.
+On the initialization of the library I trigger the given test Api **https://dog.ceo/api/breeds/image/random/30** to fetch 30 records and I store them it on arraylist to perform all the operations.
 
 # App
 
